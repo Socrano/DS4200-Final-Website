@@ -1,0 +1,14 @@
+{
+  "name": "@socrano/ds4200-final-project",
+  "main": "b6bf4d4af3b20037@3289.js",
+  "version": "3289.0.0",
+  "homepage": "https://observablehq.com/@socrano/ds4200-final-project",
+  "author": {
+    "name": "socrano",
+    "url": "https://observablehq.com/@socrano"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
